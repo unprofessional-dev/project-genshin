@@ -75,3 +75,15 @@ h3{
     gap: 1em;
     overflow: hidden;
 }
+
+button {
+    padding: 1% 5%;
+    font-size: large;
+    border-radius: 2rem;
+}
+
+#sign-up{
+    color: whitesmoke;
+    background-color: navy;
+    border: none;
+}
